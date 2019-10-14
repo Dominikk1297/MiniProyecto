@@ -1,0 +1,38 @@
+@font-face {
+  font-family: Impacted;
+  src:url(../Fuentes/Impacted.ttf);
+}
+@font-face {
+  font-family: geosans;
+  src:url(../Fuentes/Geosans.ttf);
+}
+body{
+background-image: url("../Imagenes/fondo1.jpg");
+font-family:geosans;
+font-weight:bold;
+}
+.botones{	
+font-family:Impacted;
+background-color:#9c9c9c;
+color:black;
+margin:0 auto;
+width:100%;
+text-align:center;
+font-size:30px;
+-webkit-text-stroke: 1px white;
+border:outset 5px turquoise;
+margin-bottom:30px;
+}
+.botones tr td:hover{
+background-color:#ccc;
+transition: all 1s ease;
+}
+.botones td{
+width:20%;
+height:50px;
+}
+.social{
+margin:0 auto;
+text-align:center;	
+margin-bottom:0px;
+}

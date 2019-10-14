@@ -1,0 +1,14 @@
+.info{
+margin:0 auto;
+text-align:center;
+width:50%;	
+color:white;
+border:outset 5px turquoise;
+}
+a{
+color:white;	
+}
+a:visited{
+color:white;
+}
+

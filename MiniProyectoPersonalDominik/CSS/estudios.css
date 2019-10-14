@@ -1,0 +1,98 @@
+.contenedor{
+text-align:center;
+}
+.estudios{
+display:inline-block;
+
+}
+.menu {
+  float:left;
+  width: 200px; 
+}
+/*Principal*/
+.texto{
+text-align:center;
+float:left;
+width:300px;
+height:170px;
+background-color:white;
+border:inset 5px turquoise;
+}
+.texto p{
+padding-top:20px;
+}
+/*Primaria*/
+.texto2{
+text-align:center;
+float:left;
+width:300px;
+height:320px;
+background-color:white;
+border:inset 5px turquoise;
+}
+
+.texto2 p{
+padding-top:20px;
+}
+/*Secundaria*/
+.texto3{
+text-align:center;
+float:left;
+width:300px;
+height:365px;
+background-color:white;
+border:inset 5px turquoise;
+}
+.texto3 p{
+padding-top:20px;
+}
+/*Grado Medio*/
+.texto4{
+text-align:center;
+float:left;
+width:300px;
+height:280px;
+background-color:white;
+border:inset 5px turquoise;
+}
+.texto4 p{
+padding-top:20px;
+}
+.texto4 img{
+width:290px;
+height:124px;
+}
+/*Grado Superior*/
+.texto5{
+text-align:center;
+float:left;
+width:300px;
+height:310px;
+background-color:white;
+border:inset 5px turquoise;
+}
+.texto5 p{
+padding-top:20px;
+}
+.texto5 img{
+width:290px;
+height:124px;
+}
+
+.menu a{
+  text-align:center;
+  background-color:#9c9c9c;
+  color: black; 
+  display: block; 
+  padding: 12px; 
+  text-decoration: none; 
+}
+
+.menu a:hover {
+  background-color: #eee;
+}
+
+.menu a.titulo {
+  background-color: turquoise; 
+  color: white;
+}

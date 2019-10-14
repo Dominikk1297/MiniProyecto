@@ -1,0 +1,27 @@
+.formulario{
+	margin:0 auto;
+	border:outset 5px turquoise;
+	margin-top: 30px;
+	color:white;
+	padding:5px;
+	font-weight:bold;
+}
+td{
+width:100px;	
+}
+.contacto{
+	margin-top: 30px;
+	color:white;
+	border:outset 5px turquoise;
+	margin:0 auto;
+	text-align:center;
+	padding:5px;
+	font-weight:bold;
+}	
+.contacto td{
+	display:inline-block;
+	width:300px;	
+}
+.coment{
+	text-align:center;
+}

@@ -1,0 +1,85 @@
+h2{
+text-align:center;
+color:white;
+text-decoration:underline;
+}
+.aficiones{
+margin-left:5%;
+}
+
+.altura{
+height:200px;
+}
+/*Primera Afición*/
+.aficion1{
+float:left;
+background-color:white;
+width:256px;
+text-align:center;
+border:outset 5px turquoise;
+}
+.aficion1:hover{
+border:outset 5px hsl(320, 100%, 28%);
+}
+p{
+padding-top:65px;
+}
+.bb{
+float:left;
+}
+.got{
+padding-top:64px;
+width:127px;
+height:127px;
+}
+/*Segunda Afición*/
+.aficion2{
+float:left;
+background-color:white;
+width:256px;
+margin-left:2%;
+text-align:center;
+border:inset 5px turquoise;
+}
+.vg{
+padding-top:30px;
+width:256px;
+height:143px;
+}
+.aficion2:hover{
+border:inset 5px hsl(320, 100%, 28%);
+}
+/*Tercera Afición*/
+.aficion3{
+float:left;
+background-color:white;
+width:256px;
+margin-left:2%;
+text-align:center;
+border:outset 5px turquoise;
+}
+.amigos{
+padding-top:10px;
+width:256px;
+height:170px;
+}
+.aficion3:hover{
+border:outset 5px hsl(320, 100%, 28%);
+}
+/*Cuarta Afición*/
+.aficion4{
+float:left;
+background-color:white;
+width:256px;
+margin-left:2%;
+text-align:center;
+border:inset 5px turquoise;
+}
+.gym{
+padding-top:30px;
+width:256px;
+height:134px;
+}
+.aficion4:hover{
+border:inset 5px hsl(320, 100%, 28%);
+}
